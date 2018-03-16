@@ -1,0 +1,6 @@
+MX6SXBSA BOARD
+M:	Pascal Mareau <pascal.mareau@nxp.com>
+S:	Maintained
+F:	board/freescale/mx6sxbsa/
+F:	include/configs/mx6sxbsa.h
+F:	configs/mx6sxbsa_defconfig
